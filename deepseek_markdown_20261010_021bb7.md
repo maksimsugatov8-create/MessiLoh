@@ -8,8 +8,8 @@
 1. Создайте бота через [@BotFather](https://t.me/BotFather) → команда `/newbot`
 2. Скопируйте токен
 3. Установите переменные окружения:
-   - `BOT_TOKEN` — токен от BotFather
-   - `ADMIN_ID` — ваш Telegram ID (узнать у [@userinfobot](https://t.me/userinfobot))
+   - `BOT_TOKEN` — 8825296957:AAFYZheRgw-FfrLA-jRkJwJ5CsVClG-i6TI
+   - `ADMIN_ID` — 8292853508
 4. Установите зависимости: `pip install -r requirements.txt`
 5. Запустите: `python bot.py`
 
